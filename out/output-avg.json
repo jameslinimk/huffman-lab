@@ -58,27 +58,28 @@
         "(": "1110010001110000",
         "ö": "11100100011100010000",
         "Œ": "111001000111000100010000000",
-        "‘": "111001000111000100010000001",
+        "ϰ": "1110010001110001000100000010",
+        "ו": "11100100011100010001000000110",
+        "ח": "111001000111000100010000001110",
+        "”": "1110010001110001000100000011110",
+        "“": "11100100011100010001000000111110",
+        "œ": "111001000111000100010000001111110",
+        "—": "1110010001110001000100000011111110",
+        "\n": "11100100011100010001000000111111110",
+        "’": "11100100011100010001000000111111111",
         "η": "111001000111000100010000010",
         "τ": "111001000111000100010000011",
         "é": "1110010001110001000100001",
-        "œ": "111001000111000100010001",
-        "•": "11100100011100010001001",
+        "â": "111001000111000100010001",
+        " ": "111001000111000100010010",
+        "\r": "111001000111000100010011",
         "ο": "1110010001110001000101000000",
         "ς": "1110010001110001000101000001",
-        "ϰ": "1110010001110001000101000010",
-        "ו": "11100100011100010001010000110",
-        "ח": "111001000111000100010100001110",
-        "”": "1110010001110001000101000011110",
-        "“": "11100100011100010001010000111110",
-        "â": "111001000111000100010100001111110",
-        "’": "1110010001110001000101000011111110",
-        "—": "1110010001110001000101000011111111",
+        "‘": "111001000111000100010100001",
         "£": "11100100011100010001010001",
         "è": "1110010001110001000101001",
         "™": "111001000111000100010101",
-        " ": "111001000111000100010110",
-        "\n": "111001000111000100010111",
+        "•": "11100100011100010001011",
         "ä": "111001000111000100011",
         "|": "1110010001110001001",
         "'": "1110010001110001010",
@@ -842,97 +843,6 @@
                                                                                                                 "right": {
                                                                                                                     "btree": true,
                                                                                                                     "value": 0,
-                                                                                                                    "character": "‘",
-                                                                                                                    "left": null,
-                                                                                                                    "right": null
-                                                                                                                }
-                                                                                                            },
-                                                                                                            "right": {
-                                                                                                                "btree": true,
-                                                                                                                "value": 0,
-                                                                                                                "character": "",
-                                                                                                                "left": {
-                                                                                                                    "btree": true,
-                                                                                                                    "value": 0,
-                                                                                                                    "character": "η",
-                                                                                                                    "left": null,
-                                                                                                                    "right": null
-                                                                                                                },
-                                                                                                                "right": {
-                                                                                                                    "btree": true,
-                                                                                                                    "value": 0,
-                                                                                                                    "character": "τ",
-                                                                                                                    "left": null,
-                                                                                                                    "right": null
-                                                                                                                }
-                                                                                                            }
-                                                                                                        },
-                                                                                                        "right": {
-                                                                                                            "btree": true,
-                                                                                                            "value": 0,
-                                                                                                            "character": "é",
-                                                                                                            "left": null,
-                                                                                                            "right": null
-                                                                                                        }
-                                                                                                    },
-                                                                                                    "right": {
-                                                                                                        "btree": true,
-                                                                                                        "value": 0,
-                                                                                                        "character": "œ",
-                                                                                                        "left": null,
-                                                                                                        "right": null
-                                                                                                    }
-                                                                                                },
-                                                                                                "right": {
-                                                                                                    "btree": true,
-                                                                                                    "value": 0,
-                                                                                                    "character": "•",
-                                                                                                    "left": null,
-                                                                                                    "right": null
-                                                                                                }
-                                                                                            },
-                                                                                            "right": {
-                                                                                                "btree": true,
-                                                                                                "value": 0,
-                                                                                                "character": "",
-                                                                                                "left": {
-                                                                                                    "btree": true,
-                                                                                                    "value": 0,
-                                                                                                    "character": "",
-                                                                                                    "left": {
-                                                                                                        "btree": true,
-                                                                                                        "value": 0,
-                                                                                                        "character": "",
-                                                                                                        "left": {
-                                                                                                            "btree": true,
-                                                                                                            "value": 0,
-                                                                                                            "character": "",
-                                                                                                            "left": {
-                                                                                                                "btree": true,
-                                                                                                                "value": 0,
-                                                                                                                "character": "",
-                                                                                                                "left": {
-                                                                                                                    "btree": true,
-                                                                                                                    "value": 0,
-                                                                                                                    "character": "",
-                                                                                                                    "left": {
-                                                                                                                        "btree": true,
-                                                                                                                        "value": 0,
-                                                                                                                        "character": "ο",
-                                                                                                                        "left": null,
-                                                                                                                        "right": null
-                                                                                                                    },
-                                                                                                                    "right": {
-                                                                                                                        "btree": true,
-                                                                                                                        "value": 0,
-                                                                                                                        "character": "ς",
-                                                                                                                        "left": null,
-                                                                                                                        "right": null
-                                                                                                                    }
-                                                                                                                },
-                                                                                                                "right": {
-                                                                                                                    "btree": true,
-                                                                                                                    "value": 0,
                                                                                                                     "character": "",
                                                                                                                     "left": {
                                                                                                                         "btree": true,
@@ -992,7 +902,7 @@
                                                                                                                                         "left": {
                                                                                                                                             "btree": true,
                                                                                                                                             "value": 0,
-                                                                                                                                            "character": "â",
+                                                                                                                                            "character": "œ",
                                                                                                                                             "left": null,
                                                                                                                                             "right": null
                                                                                                                                         },
@@ -1003,16 +913,28 @@
                                                                                                                                             "left": {
                                                                                                                                                 "btree": true,
                                                                                                                                                 "value": 0,
-                                                                                                                                                "character": "’",
+                                                                                                                                                "character": "—",
                                                                                                                                                 "left": null,
                                                                                                                                                 "right": null
                                                                                                                                             },
                                                                                                                                             "right": {
                                                                                                                                                 "btree": true,
                                                                                                                                                 "value": 0,
-                                                                                                                                                "character": "—",
-                                                                                                                                                "left": null,
-                                                                                                                                                "right": null
+                                                                                                                                                "character": "",
+                                                                                                                                                "left": {
+                                                                                                                                                    "btree": true,
+                                                                                                                                                    "value": 0,
+                                                                                                                                                    "character": "\n",
+                                                                                                                                                    "left": null,
+                                                                                                                                                    "right": null
+                                                                                                                                                },
+                                                                                                                                                "right": {
+                                                                                                                                                    "btree": true,
+                                                                                                                                                    "value": 0,
+                                                                                                                                                    "character": "’",
+                                                                                                                                                    "left": null,
+                                                                                                                                                    "right": null
+                                                                                                                                                }
                                                                                                                                             }
                                                                                                                                         }
                                                                                                                                     }
@@ -1020,6 +942,109 @@
                                                                                                                             }
                                                                                                                         }
                                                                                                                     }
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "right": {
+                                                                                                                "btree": true,
+                                                                                                                "value": 0,
+                                                                                                                "character": "",
+                                                                                                                "left": {
+                                                                                                                    "btree": true,
+                                                                                                                    "value": 0,
+                                                                                                                    "character": "η",
+                                                                                                                    "left": null,
+                                                                                                                    "right": null
+                                                                                                                },
+                                                                                                                "right": {
+                                                                                                                    "btree": true,
+                                                                                                                    "value": 0,
+                                                                                                                    "character": "τ",
+                                                                                                                    "left": null,
+                                                                                                                    "right": null
+                                                                                                                }
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "right": {
+                                                                                                            "btree": true,
+                                                                                                            "value": 0,
+                                                                                                            "character": "é",
+                                                                                                            "left": null,
+                                                                                                            "right": null
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "right": {
+                                                                                                        "btree": true,
+                                                                                                        "value": 0,
+                                                                                                        "character": "â",
+                                                                                                        "left": null,
+                                                                                                        "right": null
+                                                                                                    }
+                                                                                                },
+                                                                                                "right": {
+                                                                                                    "btree": true,
+                                                                                                    "value": 0,
+                                                                                                    "character": "",
+                                                                                                    "left": {
+                                                                                                        "btree": true,
+                                                                                                        "value": 0,
+                                                                                                        "character": " ",
+                                                                                                        "left": null,
+                                                                                                        "right": null
+                                                                                                    },
+                                                                                                    "right": {
+                                                                                                        "btree": true,
+                                                                                                        "value": 0,
+                                                                                                        "character": "\r",
+                                                                                                        "left": null,
+                                                                                                        "right": null
+                                                                                                    }
+                                                                                                }
+                                                                                            },
+                                                                                            "right": {
+                                                                                                "btree": true,
+                                                                                                "value": 0,
+                                                                                                "character": "",
+                                                                                                "left": {
+                                                                                                    "btree": true,
+                                                                                                    "value": 0,
+                                                                                                    "character": "",
+                                                                                                    "left": {
+                                                                                                        "btree": true,
+                                                                                                        "value": 0,
+                                                                                                        "character": "",
+                                                                                                        "left": {
+                                                                                                            "btree": true,
+                                                                                                            "value": 0,
+                                                                                                            "character": "",
+                                                                                                            "left": {
+                                                                                                                "btree": true,
+                                                                                                                "value": 0,
+                                                                                                                "character": "",
+                                                                                                                "left": {
+                                                                                                                    "btree": true,
+                                                                                                                    "value": 0,
+                                                                                                                    "character": "",
+                                                                                                                    "left": {
+                                                                                                                        "btree": true,
+                                                                                                                        "value": 0,
+                                                                                                                        "character": "ο",
+                                                                                                                        "left": null,
+                                                                                                                        "right": null
+                                                                                                                    },
+                                                                                                                    "right": {
+                                                                                                                        "btree": true,
+                                                                                                                        "value": 0,
+                                                                                                                        "character": "ς",
+                                                                                                                        "left": null,
+                                                                                                                        "right": null
+                                                                                                                    }
+                                                                                                                },
+                                                                                                                "right": {
+                                                                                                                    "btree": true,
+                                                                                                                    "value": 0,
+                                                                                                                    "character": "‘",
+                                                                                                                    "left": null,
+                                                                                                                    "right": null
                                                                                                                 }
                                                                                                             },
                                                                                                             "right": {
@@ -1049,21 +1074,9 @@
                                                                                                 "right": {
                                                                                                     "btree": true,
                                                                                                     "value": 0,
-                                                                                                    "character": "",
-                                                                                                    "left": {
-                                                                                                        "btree": true,
-                                                                                                        "value": 0,
-                                                                                                        "character": " ",
-                                                                                                        "left": null,
-                                                                                                        "right": null
-                                                                                                    },
-                                                                                                    "right": {
-                                                                                                        "btree": true,
-                                                                                                        "value": 0,
-                                                                                                        "character": "\n",
-                                                                                                        "left": null,
-                                                                                                        "right": null
-                                                                                                    }
+                                                                                                    "character": "•",
+                                                                                                    "left": null,
+                                                                                                    "right": null
                                                                                                 }
                                                                                             }
                                                                                         },
