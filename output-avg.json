@@ -1,0 +1,1571 @@
+{
+    "codes": {
+        "0": "10101",
+        "1": "1011",
+        "2": "11110",
+        "3": "11111",
+        "4": "01111",
+        "5": "10000",
+        "6": "11101",
+        "7": "01010",
+        "8": "00011",
+        "9": "10001",
+        "c": "000000",
+        "p": "000001",
+        "l": "00001",
+        "v": "00010000",
+        "R": "0001000100",
+        "#": "000100010100",
+        "$": "000100010101",
+        "*": "00010001011",
+        "N": "0001000110",
+        "V": "00010001110000",
+        "/": "00010001110001",
+        "J": "0001000111001",
+        "I": "000100011101",
+        "O": "00010001111",
+        "z": "0001001",
+        "b": "000101",
+        "a": "0010",
+        "r": "0011",
+        "s": "0100",
+        "o": "01011",
+        "n": "0110",
+        "j": "01110000",
+        "S": "0111000100",
+        "A": "0111000101",
+        ".": "01110001100",
+        "T": "01110001101",
+        "P": "011100011100",
+        "@": "011100011101",
+        "B": "01110001111",
+        "f": "0111001",
+        "h": "011101",
+        "w": "1001000",
+        "u": "1001001",
+        "i": "100101",
+        "d": "10011",
+        "m": "101000",
+        "g": "101001",
+        "t": "11000",
+        "y": "11001",
+        "e": "1101",
+        "k": "111000",
+        "E": "1110010000",
+        "X": "111001000100",
+        "K": "111001000101",
+        "C": "111001000110",
+        "(": "1110010001110000",
+        "ö": "11100100011100010000",
+        "Œ": "111001000111000100010000000",
+        "‘": "111001000111000100010000001",
+        "η": "111001000111000100010000010",
+        "τ": "111001000111000100010000011",
+        "é": "1110010001110001000100001",
+        "œ": "111001000111000100010001",
+        "•": "11100100011100010001001",
+        "ο": "1110010001110001000101000000",
+        "ς": "1110010001110001000101000001",
+        "ϰ": "1110010001110001000101000010",
+        "ו": "11100100011100010001010000110",
+        "ח": "111001000111000100010100001110",
+        "”": "1110010001110001000101000011110",
+        "“": "11100100011100010001010000111110",
+        "â": "111001000111000100010100001111110",
+        "’": "1110010001110001000101000011111110",
+        "—": "1110010001110001000101000011111111",
+        "£": "11100100011100010001010001",
+        "è": "1110010001110001000101001",
+        "™": "111001000111000100010101",
+        " ": "111001000111000100010110",
+        "\n": "111001000111000100010111",
+        "ä": "111001000111000100011",
+        "|": "1110010001110001001",
+        "'": "1110010001110001010",
+        "ü": "1110010001110001011",
+        "[": "111001000111000110",
+        "}": "111001000111000111",
+        "~": "111001000111001",
+        "=": "111001000111010",
+        ":": "11100100011101100",
+        "{": "11100100011101101",
+        "\\": "11100100011101110",
+        ">": "11100100011101111",
+        "F": "1110010001111",
+        "q": "111001001",
+        "Y": "11100101000",
+        "Z": "1110010100100",
+        "W": "1110010100101",
+        "\"": "11100101001100000",
+        "æ": "11100101001100001",
+        "&": "1110010100110001",
+        "]": "1110010100110010",
+        "<": "1110010100110011",
+        "Q": "11100101001101",
+        "-": "1110010100111",
+        "G": "111001010100",
+        "M": "111001010101",
+        "D": "11100101011",
+        "!": "1110010110",
+        "+": "11100101110000",
+        "?": "11100101110001",
+        ";": "111001011100100",
+        "%": "111001011100101",
+        ")": "111001011100110",
+        "`": "1110010111001111",
+        "H": "111001011101",
+        "U": "1110010111100",
+        ",": "111001011110100",
+        "^": "111001011110101",
+        "_": "11100101111011",
+        "L": "111001011111",
+        "x": "1110011"
+    },
+    "base": {
+        "btree": true,
+        "value": 100.0058343306,
+        "character": "",
+        "left": {
+            "btree": true,
+            "value": 43.44343488,
+            "character": "",
+            "left": {
+                "btree": true,
+                "value": 20.330258479999998,
+                "character": "",
+                "left": {
+                    "btree": true,
+                    "value": 9.78769848,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 4.63878,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 2.1873199999999997,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 1.06474,
+                                "character": "c",
+                                "left": null,
+                                "right": null
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 1.12258,
+                                "character": "p",
+                                "left": null,
+                                "right": null
+                            }
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 2.45146,
+                            "character": "l",
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 5.14891848,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 2.52568848,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 1.20414848,
+                                "character": "",
+                                "left": {
+                                    "btree": true,
+                                    "value": 0.59128448,
+                                    "character": "",
+                                    "left": {
+                                        "btree": true,
+                                        "value": 0.277947,
+                                        "character": "v",
+                                        "left": null,
+                                        "right": null
+                                    },
+                                    "right": {
+                                        "btree": true,
+                                        "value": 0.31333748,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 0.1463105,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 0.0694867,
+                                                "character": "R",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 0.0768238,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 0.0384119,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 0.0185586,
+                                                        "character": "#",
+                                                        "left": null,
+                                                        "right": null
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 0.0198533,
+                                                        "character": "$",
+                                                        "left": null,
+                                                        "right": null
+                                                    }
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 0.0384119,
+                                                    "character": "*",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            }
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 0.16702698,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 0.0815713,
+                                                "character": "N",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 0.08545568,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 0.042296280000000006,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 0.02028498,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 0.00949508,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 0.00474754,
+                                                                "character": "V",
+                                                                "left": null,
+                                                                "right": null
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 0.00474754,
+                                                                "character": "/",
+                                                                "left": null,
+                                                                "right": null
+                                                            }
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 0.0107899,
+                                                            "character": "J",
+                                                            "left": null,
+                                                            "right": null
+                                                        }
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 0.0220113,
+                                                        "character": "I",
+                                                        "left": null,
+                                                        "right": null
+                                                    }
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 0.0431594,
+                                                    "character": "O",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "right": {
+                                    "btree": true,
+                                    "value": 0.612864,
+                                    "character": "z",
+                                    "left": null,
+                                    "right": null
+                                }
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 1.32154,
+                                "character": "b",
+                                "left": null,
+                                "right": null
+                            }
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 2.62323,
+                            "character": "8",
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                },
+                "right": {
+                    "btree": true,
+                    "value": 10.54256,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 5.1869,
+                        "character": "a",
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 5.35566,
+                        "character": "r",
+                        "left": null,
+                        "right": null
+                    }
+                }
+            },
+            "right": {
+                "btree": true,
+                "value": 23.1131764,
+                "character": "",
+                "left": {
+                    "btree": true,
+                    "value": 11.45279,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 5.6513,
+                        "character": "s",
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 5.80149,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 2.88262,
+                            "character": "7",
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 2.91887,
+                            "character": "o",
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                },
+                "right": {
+                    "btree": true,
+                    "value": 11.6603864,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 5.81012,
+                        "character": "n",
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 5.8502664,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 2.9214664,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 1.3793764,
+                                "character": "",
+                                "left": {
+                                    "btree": true,
+                                    "value": 0.6810564,
+                                    "character": "",
+                                    "left": {
+                                        "btree": true,
+                                        "value": 0.317654,
+                                        "character": "j",
+                                        "left": null,
+                                        "right": null
+                                    },
+                                    "right": {
+                                        "btree": true,
+                                        "value": 0.3634024,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 0.17868,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 0.08934,
+                                                "character": "S",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 0.08934,
+                                                "character": "A",
+                                                "left": null,
+                                                "right": null
+                                            }
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 0.1847224,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 0.08934,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 0.0444542,
+                                                    "character": ".",
+                                                    "left": null,
+                                                    "right": null
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 0.0448858,
+                                                    "character": "T",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 0.0953824,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 0.0466122,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 0.0228745,
+                                                        "character": "P",
+                                                        "left": null,
+                                                        "right": null
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 0.0237377,
+                                                        "character": "@",
+                                                        "left": null,
+                                                        "right": null
+                                                    }
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 0.0487702,
+                                                    "character": "B",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "right": {
+                                    "btree": true,
+                                    "value": 0.69832,
+                                    "character": "f",
+                                    "left": null,
+                                    "right": null
+                                }
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 1.54209,
+                                "character": "h",
+                                "left": null,
+                                "right": null
+                            }
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 2.9288,
+                            "character": "4",
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                }
+            }
+        },
+        "right": {
+            "btree": true,
+            "value": 56.5623994506,
+            "character": "",
+            "left": {
+                "btree": true,
+                "value": 26.09204,
+                "character": "",
+                "left": {
+                    "btree": true,
+                    "value": 12.51408,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 6.034560000000001,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 2.96031,
+                            "character": "5",
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 3.07425,
+                            "character": "9",
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 6.47952,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 3.17912,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 1.57532,
+                                "character": "",
+                                "left": {
+                                    "btree": true,
+                                    "value": 0.726805,
+                                    "character": "w",
+                                    "left": null,
+                                    "right": null
+                                },
+                                "right": {
+                                    "btree": true,
+                                    "value": 0.848515,
+                                    "character": "u",
+                                    "left": null,
+                                    "right": null
+                                }
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 1.6038,
+                                "character": "i",
+                                "left": null,
+                                "right": null
+                            }
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 3.3004,
+                            "character": "d",
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                },
+                "right": {
+                    "btree": true,
+                    "value": 13.577960000000001,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 6.78466,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 3.30299,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 1.63747,
+                                "character": "m",
+                                "left": null,
+                                "right": null
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 1.66552,
+                                "character": "g",
+                                "left": null,
+                                "right": null
+                            }
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 3.48167,
+                            "character": "0",
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 6.7933,
+                        "character": "1",
+                        "left": null,
+                        "right": null
+                    }
+                }
+            },
+            "right": {
+                "btree": true,
+                "value": 30.4703594506,
+                "character": "",
+                "left": {
+                    "btree": true,
+                    "value": 14.45237,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 7.107060000000001,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 3.51404,
+                            "character": "t",
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 3.59302,
+                            "character": "y",
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 7.34531,
+                        "character": "e",
+                        "left": null,
+                        "right": null
+                    }
+                },
+                "right": {
+                    "btree": true,
+                    "value": 16.0179894506,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 7.5073794506,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 3.7313594506000003,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 1.75918,
+                                "character": "k",
+                                "left": null,
+                                "right": null
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 1.9721794506,
+                                "character": "",
+                                "left": {
+                                    "btree": true,
+                                    "value": 0.9117494506,
+                                    "character": "",
+                                    "left": {
+                                        "btree": true,
+                                        "value": 0.4182712326,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 0.1972952326,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 0.0975403,
+                                                "character": "E",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 0.09975493260000001,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 0.049201800000000004,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 0.0241693,
+                                                        "character": "X",
+                                                        "left": null,
+                                                        "right": null
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 0.0250325,
+                                                        "character": "K",
+                                                        "left": null,
+                                                        "right": null
+                                                    }
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 0.0505531326,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 0.0250325,
+                                                        "character": "C",
+                                                        "left": null,
+                                                        "right": null
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 0.025520632600000002,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 0.0117096326,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 0.005235716600000001,
+                                                                "character": "",
+                                                                "left": {
+                                                                    "btree": true,
+                                                                    "value": 0.0022145566,
+                                                                    "character": "",
+                                                                    "left": {
+                                                                        "btree": true,
+                                                                        "value": 0.000863189,
+                                                                        "character": "(",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    },
+                                                                    "right": {
+                                                                        "btree": true,
+                                                                        "value": 0.0013513676,
+                                                                        "character": "",
+                                                                        "left": {
+                                                                            "btree": true,
+                                                                            "value": 0.00048817960000000003,
+                                                                            "character": "",
+                                                                            "left": {
+                                                                                "btree": true,
+                                                                                "value": 0.0002440896,
+                                                                                "character": "",
+                                                                                "left": {
+                                                                                    "btree": true,
+                                                                                    "value": 0.0001220446,
+                                                                                    "character": "",
+                                                                                    "left": {
+                                                                                        "btree": true,
+                                                                                        "value": 0.0000610223,
+                                                                                        "character": "ö",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    },
+                                                                                    "right": {
+                                                                                        "btree": true,
+                                                                                        "value": 0.0000610223,
+                                                                                        "character": "",
+                                                                                        "left": {
+                                                                                            "btree": true,
+                                                                                            "value": 0,
+                                                                                            "character": "",
+                                                                                            "left": {
+                                                                                                "btree": true,
+                                                                                                "value": 0,
+                                                                                                "character": "",
+                                                                                                "left": {
+                                                                                                    "btree": true,
+                                                                                                    "value": 0,
+                                                                                                    "character": "",
+                                                                                                    "left": {
+                                                                                                        "btree": true,
+                                                                                                        "value": 0,
+                                                                                                        "character": "",
+                                                                                                        "left": {
+                                                                                                            "btree": true,
+                                                                                                            "value": 0,
+                                                                                                            "character": "",
+                                                                                                            "left": {
+                                                                                                                "btree": true,
+                                                                                                                "value": 0,
+                                                                                                                "character": "",
+                                                                                                                "left": {
+                                                                                                                    "btree": true,
+                                                                                                                    "value": 0,
+                                                                                                                    "character": "Œ",
+                                                                                                                    "left": null,
+                                                                                                                    "right": null
+                                                                                                                },
+                                                                                                                "right": {
+                                                                                                                    "btree": true,
+                                                                                                                    "value": 0,
+                                                                                                                    "character": "‘",
+                                                                                                                    "left": null,
+                                                                                                                    "right": null
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "right": {
+                                                                                                                "btree": true,
+                                                                                                                "value": 0,
+                                                                                                                "character": "",
+                                                                                                                "left": {
+                                                                                                                    "btree": true,
+                                                                                                                    "value": 0,
+                                                                                                                    "character": "η",
+                                                                                                                    "left": null,
+                                                                                                                    "right": null
+                                                                                                                },
+                                                                                                                "right": {
+                                                                                                                    "btree": true,
+                                                                                                                    "value": 0,
+                                                                                                                    "character": "τ",
+                                                                                                                    "left": null,
+                                                                                                                    "right": null
+                                                                                                                }
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "right": {
+                                                                                                            "btree": true,
+                                                                                                            "value": 0,
+                                                                                                            "character": "é",
+                                                                                                            "left": null,
+                                                                                                            "right": null
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "right": {
+                                                                                                        "btree": true,
+                                                                                                        "value": 0,
+                                                                                                        "character": "œ",
+                                                                                                        "left": null,
+                                                                                                        "right": null
+                                                                                                    }
+                                                                                                },
+                                                                                                "right": {
+                                                                                                    "btree": true,
+                                                                                                    "value": 0,
+                                                                                                    "character": "•",
+                                                                                                    "left": null,
+                                                                                                    "right": null
+                                                                                                }
+                                                                                            },
+                                                                                            "right": {
+                                                                                                "btree": true,
+                                                                                                "value": 0,
+                                                                                                "character": "",
+                                                                                                "left": {
+                                                                                                    "btree": true,
+                                                                                                    "value": 0,
+                                                                                                    "character": "",
+                                                                                                    "left": {
+                                                                                                        "btree": true,
+                                                                                                        "value": 0,
+                                                                                                        "character": "",
+                                                                                                        "left": {
+                                                                                                            "btree": true,
+                                                                                                            "value": 0,
+                                                                                                            "character": "",
+                                                                                                            "left": {
+                                                                                                                "btree": true,
+                                                                                                                "value": 0,
+                                                                                                                "character": "",
+                                                                                                                "left": {
+                                                                                                                    "btree": true,
+                                                                                                                    "value": 0,
+                                                                                                                    "character": "",
+                                                                                                                    "left": {
+                                                                                                                        "btree": true,
+                                                                                                                        "value": 0,
+                                                                                                                        "character": "ο",
+                                                                                                                        "left": null,
+                                                                                                                        "right": null
+                                                                                                                    },
+                                                                                                                    "right": {
+                                                                                                                        "btree": true,
+                                                                                                                        "value": 0,
+                                                                                                                        "character": "ς",
+                                                                                                                        "left": null,
+                                                                                                                        "right": null
+                                                                                                                    }
+                                                                                                                },
+                                                                                                                "right": {
+                                                                                                                    "btree": true,
+                                                                                                                    "value": 0,
+                                                                                                                    "character": "",
+                                                                                                                    "left": {
+                                                                                                                        "btree": true,
+                                                                                                                        "value": 0,
+                                                                                                                        "character": "ϰ",
+                                                                                                                        "left": null,
+                                                                                                                        "right": null
+                                                                                                                    },
+                                                                                                                    "right": {
+                                                                                                                        "btree": true,
+                                                                                                                        "value": 0,
+                                                                                                                        "character": "",
+                                                                                                                        "left": {
+                                                                                                                            "btree": true,
+                                                                                                                            "value": 0,
+                                                                                                                            "character": "ו",
+                                                                                                                            "left": null,
+                                                                                                                            "right": null
+                                                                                                                        },
+                                                                                                                        "right": {
+                                                                                                                            "btree": true,
+                                                                                                                            "value": 0,
+                                                                                                                            "character": "",
+                                                                                                                            "left": {
+                                                                                                                                "btree": true,
+                                                                                                                                "value": 0,
+                                                                                                                                "character": "ח",
+                                                                                                                                "left": null,
+                                                                                                                                "right": null
+                                                                                                                            },
+                                                                                                                            "right": {
+                                                                                                                                "btree": true,
+                                                                                                                                "value": 0,
+                                                                                                                                "character": "",
+                                                                                                                                "left": {
+                                                                                                                                    "btree": true,
+                                                                                                                                    "value": 0,
+                                                                                                                                    "character": "”",
+                                                                                                                                    "left": null,
+                                                                                                                                    "right": null
+                                                                                                                                },
+                                                                                                                                "right": {
+                                                                                                                                    "btree": true,
+                                                                                                                                    "value": 0,
+                                                                                                                                    "character": "",
+                                                                                                                                    "left": {
+                                                                                                                                        "btree": true,
+                                                                                                                                        "value": 0,
+                                                                                                                                        "character": "“",
+                                                                                                                                        "left": null,
+                                                                                                                                        "right": null
+                                                                                                                                    },
+                                                                                                                                    "right": {
+                                                                                                                                        "btree": true,
+                                                                                                                                        "value": 0,
+                                                                                                                                        "character": "",
+                                                                                                                                        "left": {
+                                                                                                                                            "btree": true,
+                                                                                                                                            "value": 0,
+                                                                                                                                            "character": "â",
+                                                                                                                                            "left": null,
+                                                                                                                                            "right": null
+                                                                                                                                        },
+                                                                                                                                        "right": {
+                                                                                                                                            "btree": true,
+                                                                                                                                            "value": 0,
+                                                                                                                                            "character": "",
+                                                                                                                                            "left": {
+                                                                                                                                                "btree": true,
+                                                                                                                                                "value": 0,
+                                                                                                                                                "character": "’",
+                                                                                                                                                "left": null,
+                                                                                                                                                "right": null
+                                                                                                                                            },
+                                                                                                                                            "right": {
+                                                                                                                                                "btree": true,
+                                                                                                                                                "value": 0,
+                                                                                                                                                "character": "—",
+                                                                                                                                                "left": null,
+                                                                                                                                                "right": null
+                                                                                                                                            }
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "right": {
+                                                                                                                "btree": true,
+                                                                                                                "value": 0,
+                                                                                                                "character": "£",
+                                                                                                                "left": null,
+                                                                                                                "right": null
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "right": {
+                                                                                                            "btree": true,
+                                                                                                            "value": 0,
+                                                                                                            "character": "è",
+                                                                                                            "left": null,
+                                                                                                            "right": null
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "right": {
+                                                                                                        "btree": true,
+                                                                                                        "value": 0,
+                                                                                                        "character": "™",
+                                                                                                        "left": null,
+                                                                                                        "right": null
+                                                                                                    }
+                                                                                                },
+                                                                                                "right": {
+                                                                                                    "btree": true,
+                                                                                                    "value": 0,
+                                                                                                    "character": "",
+                                                                                                    "left": {
+                                                                                                        "btree": true,
+                                                                                                        "value": 0,
+                                                                                                        "character": " ",
+                                                                                                        "left": null,
+                                                                                                        "right": null
+                                                                                                    },
+                                                                                                    "right": {
+                                                                                                        "btree": true,
+                                                                                                        "value": 0,
+                                                                                                        "character": "\n",
+                                                                                                        "left": null,
+                                                                                                        "right": null
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "right": {
+                                                                                            "btree": true,
+                                                                                            "value": 0.0000610223,
+                                                                                            "character": "ä",
+                                                                                            "left": null,
+                                                                                            "right": null
+                                                                                        }
+                                                                                    }
+                                                                                },
+                                                                                "right": {
+                                                                                    "btree": true,
+                                                                                    "value": 0.000122045,
+                                                                                    "character": "|",
+                                                                                    "left": null,
+                                                                                    "right": null
+                                                                                }
+                                                                            },
+                                                                            "right": {
+                                                                                "btree": true,
+                                                                                "value": 0.00024409,
+                                                                                "character": "",
+                                                                                "left": {
+                                                                                    "btree": true,
+                                                                                    "value": 0.000122045,
+                                                                                    "character": "'",
+                                                                                    "left": null,
+                                                                                    "right": null
+                                                                                },
+                                                                                "right": {
+                                                                                    "btree": true,
+                                                                                    "value": 0.000122045,
+                                                                                    "character": "ü",
+                                                                                    "left": null,
+                                                                                    "right": null
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        "right": {
+                                                                            "btree": true,
+                                                                            "value": 0.000863188,
+                                                                            "character": "",
+                                                                            "left": {
+                                                                                "btree": true,
+                                                                                "value": 0.000431594,
+                                                                                "character": "[",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            },
+                                                                            "right": {
+                                                                                "btree": true,
+                                                                                "value": 0.000431594,
+                                                                                "character": "}",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "right": {
+                                                                    "btree": true,
+                                                                    "value": 0.00302116,
+                                                                    "character": "~",
+                                                                    "left": null,
+                                                                    "right": null
+                                                                }
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 0.006473916,
+                                                                "character": "",
+                                                                "left": {
+                                                                    "btree": true,
+                                                                    "value": 0.00302116,
+                                                                    "character": "=",
+                                                                    "left": null,
+                                                                    "right": null
+                                                                },
+                                                                "right": {
+                                                                    "btree": true,
+                                                                    "value": 0.003452756,
+                                                                    "character": "",
+                                                                    "left": {
+                                                                        "btree": true,
+                                                                        "value": 0.001726378,
+                                                                        "character": "",
+                                                                        "left": {
+                                                                            "btree": true,
+                                                                            "value": 0.000863189,
+                                                                            "character": ":",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        },
+                                                                        "right": {
+                                                                            "btree": true,
+                                                                            "value": 0.000863189,
+                                                                            "character": "{",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        }
+                                                                    },
+                                                                    "right": {
+                                                                        "btree": true,
+                                                                        "value": 0.001726378,
+                                                                        "character": "",
+                                                                        "left": {
+                                                                            "btree": true,
+                                                                            "value": 0.000863189,
+                                                                            "character": "\\",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        },
+                                                                        "right": {
+                                                                            "btree": true,
+                                                                            "value": 0.000863189,
+                                                                            "character": ">",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 0.013811,
+                                                            "character": "F",
+                                                            "left": null,
+                                                            "right": null
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 0.220976,
+                                            "character": "q",
+                                            "left": null,
+                                            "right": null
+                                        }
+                                    },
+                                    "right": {
+                                        "btree": true,
+                                        "value": 0.493478218,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 0.230471328,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 0.110919728,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 0.0535177,
+                                                    "character": "Y",
+                                                    "left": null,
+                                                    "right": null
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 0.057402027999999994,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 0.0284852,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 0.0142426,
+                                                            "character": "Z",
+                                                            "left": null,
+                                                            "right": null
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 0.0142426,
+                                                            "character": "W",
+                                                            "left": null,
+                                                            "right": null
+                                                        }
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 0.028916828,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 0.014242628,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 0.006905518,
+                                                                "character": "",
+                                                                "left": {
+                                                                    "btree": true,
+                                                                    "value": 0.003452758,
+                                                                    "character": "",
+                                                                    "left": {
+                                                                        "btree": true,
+                                                                        "value": 0.001726378,
+                                                                        "character": "",
+                                                                        "left": {
+                                                                            "btree": true,
+                                                                            "value": 0.000863189,
+                                                                            "character": "\"",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        },
+                                                                        "right": {
+                                                                            "btree": true,
+                                                                            "value": 0.000863189,
+                                                                            "character": "æ",
+                                                                            "left": null,
+                                                                            "right": null
+                                                                        }
+                                                                    },
+                                                                    "right": {
+                                                                        "btree": true,
+                                                                        "value": 0.00172638,
+                                                                        "character": "&",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    }
+                                                                },
+                                                                "right": {
+                                                                    "btree": true,
+                                                                    "value": 0.00345276,
+                                                                    "character": "",
+                                                                    "left": {
+                                                                        "btree": true,
+                                                                        "value": 0.00172638,
+                                                                        "character": "]",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    },
+                                                                    "right": {
+                                                                        "btree": true,
+                                                                        "value": 0.00172638,
+                                                                        "character": "<",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    }
+                                                                }
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 0.00733711,
+                                                                "character": "Q",
+                                                                "left": null,
+                                                                "right": null
+                                                            }
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 0.0146742,
+                                                            "character": "-",
+                                                            "left": null,
+                                                            "right": null
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 0.11955160000000001,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 0.0591284,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 0.0293484,
+                                                        "character": "G",
+                                                        "left": null,
+                                                        "right": null
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 0.02978,
+                                                        "character": "M",
+                                                        "left": null,
+                                                        "right": null
+                                                    }
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 0.0604232,
+                                                    "character": "D",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            }
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 0.26300689,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 0.130342,
+                                                "character": "!",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 0.13266489,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 0.06360973,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 0.030376930000000003,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 0.01467422,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 0.00733711,
+                                                                "character": "+",
+                                                                "left": null,
+                                                                "right": null
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 0.00733711,
+                                                                "character": "?",
+                                                                "left": null,
+                                                                "right": null
+                                                            }
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 0.01570271,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 0.0077687,
+                                                                "character": "",
+                                                                "left": {
+                                                                    "btree": true,
+                                                                    "value": 0.00388435,
+                                                                    "character": ";",
+                                                                    "left": null,
+                                                                    "right": null
+                                                                },
+                                                                "right": {
+                                                                    "btree": true,
+                                                                    "value": 0.00388435,
+                                                                    "character": "%",
+                                                                    "left": null,
+                                                                    "right": null
+                                                                }
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 0.00793401,
+                                                                "character": "",
+                                                                "left": {
+                                                                    "btree": true,
+                                                                    "value": 0.00388435,
+                                                                    "character": ")",
+                                                                    "left": null,
+                                                                    "right": null
+                                                                },
+                                                                "right": {
+                                                                    "btree": true,
+                                                                    "value": 0.00404966,
+                                                                    "character": "",
+                                                                    "left": {
+                                                                        "btree": true,
+                                                                        "value": 0.00189169,
+                                                                        "character": "",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    },
+                                                                    "right": {
+                                                                        "btree": true,
+                                                                        "value": 0.00215797,
+                                                                        "character": "`",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 0.0332328,
+                                                        "character": "H",
+                                                        "left": null,
+                                                        "right": null
+                                                    }
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 0.06905516,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 0.03452756,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 0.015969,
+                                                            "character": "U",
+                                                            "left": null,
+                                                            "right": null
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 0.018558559999999998,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 0.009063479999999999,
+                                                                "character": "",
+                                                                "left": {
+                                                                    "btree": true,
+                                                                    "value": 0.00431594,
+                                                                    "character": ",",
+                                                                    "left": null,
+                                                                    "right": null
+                                                                },
+                                                                "right": {
+                                                                    "btree": true,
+                                                                    "value": 0.00474754,
+                                                                    "character": "^",
+                                                                    "left": null,
+                                                                    "right": null
+                                                                }
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 0.00949508,
+                                                                "character": "_",
+                                                                "left": null,
+                                                                "right": null
+                                                            }
+                                                        }
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 0.0345276,
+                                                        "character": "L",
+                                                        "left": null,
+                                                        "right": null
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "right": {
+                                    "btree": true,
+                                    "value": 1.06043,
+                                    "character": "x",
+                                    "left": null,
+                                    "right": null
+                                }
+                            }
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 3.77602,
+                            "character": "6",
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 8.51061,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 3.91327,
+                            "character": "2",
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 4.59734,
+                            "character": "3",
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

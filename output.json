@@ -1,0 +1,1338 @@
+{
+    "codes": {
+        "0": "1110101011000",
+        "1": "011000101110",
+        "2": "0110001000000",
+        "3": "11101010110011",
+        "4": "01100010111101",
+        "5": "11101001010111",
+        "6": "01100010111100",
+        "7": "11101001010110",
+        "8": "11101010110100",
+        "9": "01100010110101",
+        "e": "000",
+        "h": "0010",
+        "s": "0011",
+        "i": "0100",
+        "n": "0101",
+        ".": "0110000",
+        "K": "0110001000001",
+        "(": "011000100001",
+        ")": "011000100010",
+        "J": "011000100011",
+        "?": "0110001001",
+        "x": "0110001010",
+        "Y": "011000101100",
+        "%": "0110001011010000000",
+        "η": "01100010110100000010",
+        "τ": "01100010110100000011",
+        "[": "011000101101000001",
+        "]": "011000101101000010",
+        "œ": "011000101101000011",
+        "X": "0110001011010001",
+        "•": "011000101101001000",
+        "£": "011000101101001001",
+        "$": "011000101101001010",
+        "#": "01100010110100101100",
+        "ח": "01100010110100101101",
+        "Œ": "01100010110100101110",
+        "â": "01100010110100101111",
+        "Z": "0110001011010011",
+        "V": "0110001011011",
+        "‘": "0110001011111",
+        ";": "01100011",
+        "p": "011001",
+        "y": "011010",
+        "v": "0110110",
+        "T": "011011100",
+        "C": "0110111010",
+        "P": "0110111011",
+        "A": "011011110",
+        "O": "01101111100",
+        "z": "01101111101",
+        "G": "01101111110",
+        "D": "01101111111",
+        "o": "0111",
+        "a": "1000",
+        "d": "10010",
+        ",": "100110",
+        "f": "100111",
+        "g": "101000",
+        "w": "101001",
+        "l": "10101",
+        "t": "1011",
+        " ": "110",
+        "c": "111000",
+        "\n": "111001",
+        "W": "1110100000",
+        "q": "1110100001",
+        "-": "111010001",
+        "H": "1110100100",
+        "Q": "111010010100",
+        "U": "1110100101010",
+        "M": "11101001011",
+        "B": "1110100110",
+        "L": "11101001110",
+        "R": "11101001111",
+        "’": "111010100",
+        "”": "1110101010",
+        "*": "11101010110010",
+        "&": "1110101011010100000",
+        "ο": "11101010110101000010",
+        "ς": "11101010110101000011",
+        "é": "111010101101010001",
+        "ו": "11101010110101001000",
+        "ϰ": "11101010110101001001",
+        "è": "1110101011010100101",
+        "/": "111010101101010011",
+        "æ": "1110101011010101",
+        "™": "111010101101011",
+        ":": "1110101011011",
+        "F": "11101010111",
+        "_": "11101011000",
+        "E": "11101011001",
+        "“": "1110101101",
+        "I": "111010111",
+        "m": "111011",
+        "r": "11110",
+        "u": "111110",
+        "—": "1111110000",
+        "N": "11111100010",
+        "j": "11111100011",
+        "!": "1111110010",
+        "S": "1111110011",
+        "k": "11111101",
+        "b": "1111111"
+    },
+    "base": {
+        "btree": true,
+        "value": 1238201,
+        "character": "",
+        "left": {
+            "btree": true,
+            "value": 512118,
+            "character": "",
+            "left": {
+                "btree": true,
+                "value": 244208,
+                "character": "",
+                "left": {
+                    "btree": true,
+                    "value": 118518,
+                    "character": "e",
+                    "left": null,
+                    "right": null
+                },
+                "right": {
+                    "btree": true,
+                    "value": 125690,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 62490,
+                        "character": "h",
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 63200,
+                        "character": "s",
+                        "left": null,
+                        "right": null
+                    }
+                }
+            },
+            "right": {
+                "btree": true,
+                "value": 267910,
+                "character": "",
+                "left": {
+                    "btree": true,
+                    "value": 129379,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 63439,
+                        "character": "i",
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 65940,
+                        "character": "n",
+                        "left": null,
+                        "right": null
+                    }
+                },
+                "right": {
+                    "btree": true,
+                    "value": 138531,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 68333,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 33116,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 16459,
+                                "character": "",
+                                "left": {
+                                    "btree": true,
+                                    "value": 8194,
+                                    "character": ".",
+                                    "left": null,
+                                    "right": null
+                                },
+                                "right": {
+                                    "btree": true,
+                                    "value": 8265,
+                                    "character": "",
+                                    "left": {
+                                        "btree": true,
+                                        "value": 4083,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 1957,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 950,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 461,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 228,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 105,
+                                                            "character": "2",
+                                                            "left": null,
+                                                            "right": null
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 123,
+                                                            "character": "K",
+                                                            "left": null,
+                                                            "right": null
+                                                        }
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 233,
+                                                        "character": "(",
+                                                        "left": null,
+                                                        "right": null
+                                                    }
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 489,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 233,
+                                                        "character": ")",
+                                                        "left": null,
+                                                        "right": null
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 256,
+                                                        "character": "J",
+                                                        "left": null,
+                                                        "right": null
+                                                    }
+                                                }
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1007,
+                                                "character": "?",
+                                                "left": null,
+                                                "right": null
+                                            }
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 2126,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 1048,
+                                                "character": "x",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1078,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 523,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 261,
+                                                        "character": "Y",
+                                                        "left": null,
+                                                        "right": null
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 262,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 129,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 64,
+                                                                "character": "",
+                                                                "left": {
+                                                                    "btree": true,
+                                                                    "value": 29,
+                                                                    "character": "",
+                                                                    "left": {
+                                                                        "btree": true,
+                                                                        "value": 13,
+                                                                        "character": "",
+                                                                        "left": {
+                                                                            "btree": true,
+                                                                            "value": 6,
+                                                                            "character": "",
+                                                                            "left": {
+                                                                                "btree": true,
+                                                                                "value": 3,
+                                                                                "character": "",
+                                                                                "left": {
+                                                                                    "btree": true,
+                                                                                    "value": 1,
+                                                                                    "character": "%",
+                                                                                    "left": null,
+                                                                                    "right": null
+                                                                                },
+                                                                                "right": {
+                                                                                    "btree": true,
+                                                                                    "value": 2,
+                                                                                    "character": "",
+                                                                                    "left": {
+                                                                                        "btree": true,
+                                                                                        "value": 1,
+                                                                                        "character": "η",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    },
+                                                                                    "right": {
+                                                                                        "btree": true,
+                                                                                        "value": 1,
+                                                                                        "character": "τ",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            "right": {
+                                                                                "btree": true,
+                                                                                "value": 3,
+                                                                                "character": "[",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            }
+                                                                        },
+                                                                        "right": {
+                                                                            "btree": true,
+                                                                            "value": 7,
+                                                                            "character": "",
+                                                                            "left": {
+                                                                                "btree": true,
+                                                                                "value": 3,
+                                                                                "character": "]",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            },
+                                                                            "right": {
+                                                                                "btree": true,
+                                                                                "value": 4,
+                                                                                "character": "œ",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    "right": {
+                                                                        "btree": true,
+                                                                        "value": 16,
+                                                                        "character": "X",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    }
+                                                                },
+                                                                "right": {
+                                                                    "btree": true,
+                                                                    "value": 35,
+                                                                    "character": "",
+                                                                    "left": {
+                                                                        "btree": true,
+                                                                        "value": 16,
+                                                                        "character": "",
+                                                                        "left": {
+                                                                            "btree": true,
+                                                                            "value": 8,
+                                                                            "character": "",
+                                                                            "left": {
+                                                                                "btree": true,
+                                                                                "value": 4,
+                                                                                "character": "•",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            },
+                                                                            "right": {
+                                                                                "btree": true,
+                                                                                "value": 4,
+                                                                                "character": "£",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            }
+                                                                        },
+                                                                        "right": {
+                                                                            "btree": true,
+                                                                            "value": 8,
+                                                                            "character": "",
+                                                                            "left": {
+                                                                                "btree": true,
+                                                                                "value": 4,
+                                                                                "character": "$",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            },
+                                                                            "right": {
+                                                                                "btree": true,
+                                                                                "value": 4,
+                                                                                "character": "",
+                                                                                "left": {
+                                                                                    "btree": true,
+                                                                                    "value": 2,
+                                                                                    "character": "",
+                                                                                    "left": {
+                                                                                        "btree": true,
+                                                                                        "value": 1,
+                                                                                        "character": "#",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    },
+                                                                                    "right": {
+                                                                                        "btree": true,
+                                                                                        "value": 1,
+                                                                                        "character": "ח",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    }
+                                                                                },
+                                                                                "right": {
+                                                                                    "btree": true,
+                                                                                    "value": 2,
+                                                                                    "character": "",
+                                                                                    "left": {
+                                                                                        "btree": true,
+                                                                                        "value": 1,
+                                                                                        "character": "Œ",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    },
+                                                                                    "right": {
+                                                                                        "btree": true,
+                                                                                        "value": 1,
+                                                                                        "character": "â",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    "right": {
+                                                                        "btree": true,
+                                                                        "value": 19,
+                                                                        "character": "Z",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    }
+                                                                }
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 65,
+                                                                "character": "9",
+                                                                "left": null,
+                                                                "right": null
+                                                            }
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 133,
+                                                            "character": "V",
+                                                            "left": null,
+                                                            "right": null
+                                                        }
+                                                    }
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 555,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 270,
+                                                        "character": "1",
+                                                        "left": null,
+                                                        "right": null
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 285,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 138,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 67,
+                                                                "character": "6",
+                                                                "left": null,
+                                                                "right": null
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 71,
+                                                                "character": "4",
+                                                                "left": null,
+                                                                "right": null
+                                                            }
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 147,
+                                                            "character": "‘",
+                                                            "left": null,
+                                                            "right": null
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "right": {
+                                        "btree": true,
+                                        "value": 4182,
+                                        "character": ";",
+                                        "left": null,
+                                        "right": null
+                                    }
+                                }
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 16657,
+                                "character": "p",
+                                "left": null,
+                                "right": null
+                            }
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 35217,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 16981,
+                                "character": "y",
+                                "left": null,
+                                "right": null
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 18236,
+                                "character": "",
+                                "left": {
+                                    "btree": true,
+                                    "value": 8591,
+                                    "character": "v",
+                                    "left": null,
+                                    "right": null
+                                },
+                                "right": {
+                                    "btree": true,
+                                    "value": 9645,
+                                    "character": "",
+                                    "left": {
+                                        "btree": true,
+                                        "value": 4769,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 2370,
+                                            "character": "T",
+                                            "left": null,
+                                            "right": null
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 2399,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 1183,
+                                                "character": "C",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1216,
+                                                "character": "P",
+                                                "left": null,
+                                                "right": null
+                                            }
+                                        }
+                                    },
+                                    "right": {
+                                        "btree": true,
+                                        "value": 4876,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 2400,
+                                            "character": "A",
+                                            "left": null,
+                                            "right": null
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 2476,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 1226,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 610,
+                                                    "character": "O",
+                                                    "left": null,
+                                                    "right": null
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 616,
+                                                    "character": "z",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1250,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 616,
+                                                    "character": "G",
+                                                    "left": null,
+                                                    "right": null
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 634,
+                                                    "character": "D",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 70198,
+                        "character": "o",
+                        "left": null,
+                        "right": null
+                    }
+                }
+            }
+        },
+        "right": {
+            "btree": true,
+            "value": 726083,
+            "character": "",
+            "left": {
+                "btree": true,
+                "value": 327023,
+                "character": "",
+                "left": {
+                    "btree": true,
+                    "value": 154888,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 76820,
+                        "character": "a",
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 78068,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 38200,
+                            "character": "d",
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 39868,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 19384,
+                                "character": ",",
+                                "left": null,
+                                "right": null
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 20484,
+                                "character": "f",
+                                "left": null,
+                                "right": null
+                            }
+                        }
+                    }
+                },
+                "right": {
+                    "btree": true,
+                    "value": 172135,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 84631,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 41970,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 20671,
+                                "character": "g",
+                                "left": null,
+                                "right": null
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 21299,
+                                "character": "w",
+                                "left": null,
+                                "right": null
+                            }
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 42661,
+                            "character": "l",
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 87504,
+                        "character": "t",
+                        "left": null,
+                        "right": null
+                    }
+                }
+            },
+            "right": {
+                "btree": true,
+                "value": 399060,
+                "character": "",
+                "left": {
+                    "btree": true,
+                    "value": 197864,
+                    "character": " ",
+                    "left": null,
+                    "right": null
+                },
+                "right": {
+                    "btree": true,
+                    "value": 201196,
+                    "character": "",
+                    "left": {
+                        "btree": true,
+                        "value": 90147,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 44449,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 22135,
+                                "character": "c",
+                                "left": null,
+                                "right": null
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 22314,
+                                "character": "\n",
+                                "left": null,
+                                "right": null
+                            }
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 45698,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 22729,
+                                "character": "",
+                                "left": {
+                                    "btree": true,
+                                    "value": 10462,
+                                    "character": "",
+                                    "left": {
+                                        "btree": true,
+                                        "value": 5101,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 2514,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 1257,
+                                                "character": "W",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1257,
+                                                "character": "q",
+                                                "left": null,
+                                                "right": null
+                                            }
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 2587,
+                                            "character": "-",
+                                            "left": null,
+                                            "right": null
+                                        }
+                                    },
+                                    "right": {
+                                        "btree": true,
+                                        "value": 5361,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 2588,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 1279,
+                                                "character": "H",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1309,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 652,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 324,
+                                                        "character": "Q",
+                                                        "left": null,
+                                                        "right": null
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 328,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 160,
+                                                            "character": "U",
+                                                            "left": null,
+                                                            "right": null
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 168,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 81,
+                                                                "character": "7",
+                                                                "left": null,
+                                                                "right": null
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 87,
+                                                                "character": "5",
+                                                                "left": null,
+                                                                "right": null
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 657,
+                                                    "character": "M",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            }
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 2773,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 1386,
+                                                "character": "B",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1387,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 688,
+                                                    "character": "L",
+                                                    "left": null,
+                                                    "right": null
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 699,
+                                                    "character": "R",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "right": {
+                                    "btree": true,
+                                    "value": 12267,
+                                    "character": "",
+                                    "left": {
+                                        "btree": true,
+                                        "value": 5804,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 2796,
+                                            "character": "’",
+                                            "left": null,
+                                            "right": null
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 3008,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 1487,
+                                                "character": "”",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1521,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 753,
+                                                    "character": "",
+                                                    "left": {
+                                                        "btree": true,
+                                                        "value": 349,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 174,
+                                                            "character": "0",
+                                                            "left": null,
+                                                            "right": null
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 175,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 87,
+                                                                "character": "*",
+                                                                "left": null,
+                                                                "right": null
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 88,
+                                                                "character": "3",
+                                                                "left": null,
+                                                                "right": null
+                                                            }
+                                                        }
+                                                    },
+                                                    "right": {
+                                                        "btree": true,
+                                                        "value": 404,
+                                                        "character": "",
+                                                        "left": {
+                                                            "btree": true,
+                                                            "value": 191,
+                                                            "character": "",
+                                                            "left": {
+                                                                "btree": true,
+                                                                "value": 91,
+                                                                "character": "8",
+                                                                "left": null,
+                                                                "right": null
+                                                            },
+                                                            "right": {
+                                                                "btree": true,
+                                                                "value": 100,
+                                                                "character": "",
+                                                                "left": {
+                                                                    "btree": true,
+                                                                    "value": 43,
+                                                                    "character": "",
+                                                                    "left": {
+                                                                        "btree": true,
+                                                                        "value": 20,
+                                                                        "character": "",
+                                                                        "left": {
+                                                                            "btree": true,
+                                                                            "value": 9,
+                                                                            "character": "",
+                                                                            "left": {
+                                                                                "btree": true,
+                                                                                "value": 4,
+                                                                                "character": "",
+                                                                                "left": {
+                                                                                    "btree": true,
+                                                                                    "value": 2,
+                                                                                    "character": "&",
+                                                                                    "left": null,
+                                                                                    "right": null
+                                                                                },
+                                                                                "right": {
+                                                                                    "btree": true,
+                                                                                    "value": 2,
+                                                                                    "character": "",
+                                                                                    "left": {
+                                                                                        "btree": true,
+                                                                                        "value": 1,
+                                                                                        "character": "ο",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    },
+                                                                                    "right": {
+                                                                                        "btree": true,
+                                                                                        "value": 1,
+                                                                                        "character": "ς",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            "right": {
+                                                                                "btree": true,
+                                                                                "value": 5,
+                                                                                "character": "é",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            }
+                                                                        },
+                                                                        "right": {
+                                                                            "btree": true,
+                                                                            "value": 11,
+                                                                            "character": "",
+                                                                            "left": {
+                                                                                "btree": true,
+                                                                                "value": 5,
+                                                                                "character": "",
+                                                                                "left": {
+                                                                                    "btree": true,
+                                                                                    "value": 2,
+                                                                                    "character": "",
+                                                                                    "left": {
+                                                                                        "btree": true,
+                                                                                        "value": 1,
+                                                                                        "character": "ו",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    },
+                                                                                    "right": {
+                                                                                        "btree": true,
+                                                                                        "value": 1,
+                                                                                        "character": "ϰ",
+                                                                                        "left": null,
+                                                                                        "right": null
+                                                                                    }
+                                                                                },
+                                                                                "right": {
+                                                                                    "btree": true,
+                                                                                    "value": 3,
+                                                                                    "character": "è",
+                                                                                    "left": null,
+                                                                                    "right": null
+                                                                                }
+                                                                            },
+                                                                            "right": {
+                                                                                "btree": true,
+                                                                                "value": 6,
+                                                                                "character": "/",
+                                                                                "left": null,
+                                                                                "right": null
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    "right": {
+                                                                        "btree": true,
+                                                                        "value": 23,
+                                                                        "character": "æ",
+                                                                        "left": null,
+                                                                        "right": null
+                                                                    }
+                                                                },
+                                                                "right": {
+                                                                    "btree": true,
+                                                                    "value": 57,
+                                                                    "character": "™",
+                                                                    "left": null,
+                                                                    "right": null
+                                                                }
+                                                            }
+                                                        },
+                                                        "right": {
+                                                            "btree": true,
+                                                            "value": 213,
+                                                            "character": ":",
+                                                            "left": null,
+                                                            "right": null
+                                                        }
+                                                    }
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 768,
+                                                    "character": "F",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "right": {
+                                        "btree": true,
+                                        "value": 6463,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 3231,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 1603,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 776,
+                                                    "character": "_",
+                                                    "left": null,
+                                                    "right": null
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 827,
+                                                    "character": "E",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1628,
+                                                "character": "“",
+                                                "left": null,
+                                                "right": null
+                                            }
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 3232,
+                                            "character": "I",
+                                            "left": null,
+                                            "right": null
+                                        }
+                                    }
+                                }
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 22969,
+                                "character": "m",
+                                "left": null,
+                                "right": null
+                            }
+                        }
+                    },
+                    "right": {
+                        "btree": true,
+                        "value": 111049,
+                        "character": "",
+                        "left": {
+                            "btree": true,
+                            "value": 52890,
+                            "character": "r",
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "btree": true,
+                            "value": 58159,
+                            "character": "",
+                            "left": {
+                                "btree": true,
+                                "value": 27045,
+                                "character": "u",
+                                "left": null,
+                                "right": null
+                            },
+                            "right": {
+                                "btree": true,
+                                "value": 31114,
+                                "character": "",
+                                "left": {
+                                    "btree": true,
+                                    "value": 15297,
+                                    "character": "",
+                                    "left": {
+                                        "btree": true,
+                                        "value": 7192,
+                                        "character": "",
+                                        "left": {
+                                            "btree": true,
+                                            "value": 3488,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 1730,
+                                                "character": "—",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1758,
+                                                "character": "",
+                                                "left": {
+                                                    "btree": true,
+                                                    "value": 838,
+                                                    "character": "N",
+                                                    "left": null,
+                                                    "right": null
+                                                },
+                                                "right": {
+                                                    "btree": true,
+                                                    "value": 920,
+                                                    "character": "j",
+                                                    "left": null,
+                                                    "right": null
+                                                }
+                                            }
+                                        },
+                                        "right": {
+                                            "btree": true,
+                                            "value": 3704,
+                                            "character": "",
+                                            "left": {
+                                                "btree": true,
+                                                "value": 1768,
+                                                "character": "!",
+                                                "left": null,
+                                                "right": null
+                                            },
+                                            "right": {
+                                                "btree": true,
+                                                "value": 1936,
+                                                "character": "S",
+                                                "left": null,
+                                                "right": null
+                                            }
+                                        }
+                                    },
+                                    "right": {
+                                        "btree": true,
+                                        "value": 8105,
+                                        "character": "k",
+                                        "left": null,
+                                        "right": null
+                                    }
+                                },
+                                "right": {
+                                    "btree": true,
+                                    "value": 15817,
+                                    "character": "b",
+                                    "left": null,
+                                    "right": null
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
