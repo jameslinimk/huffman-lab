@@ -1,6 +1,37 @@
+/**
+# Question answers
+
+## Question 1
+It took 5,769,341 bits to encode
+
+## Question 2
+
+- It would take 7 bits to encode a character and 8,823,605 bits to encode with fixed length
+- The Huffman code saved 34.61% (3,054,264 bits)
+
+## Challenge Task 1
+
+- Used https://github.com/piersy/ascii-char-frequency-english for average frequencies
+- Average Huffman took 6,656,750 bits to encode
+- Custom Huffman 13.33% (887,409 bits) more efficient than average
+- Average Huffman saved 24.56% (2,166,855 bits) from fixed length
+
+## Challenge Task 2
+
+- Takes 238,952 bits to encode using Task 5 Huffman
+- Takes 212,383 bits to encode using average Huffman
+- Takes 312,872 bits to encode using smallest fixed length
+- Task 5 Huffman is 11.12% (26,569 bits) more efficient
+- I believe that task 5 Huffman is slightly more efficient because of the chunk of the text at the top of the file
+("This ebook is for the use of anyone anywhere in the United States...") is shared between the two books, and
+the custom Huffman is optimized for project gutenberg books. But, the difference is small enough that it could
+be due to random chance.
+ */
+
 import chalk from "chalk"
 import { readFile, writeFile } from "fs/promises"
 import Tinyqueue from "tinyqueue"
+import average from "./data/frequencies.json"
 
 type Frequencies = Record<string, number>
 
@@ -139,19 +170,8 @@ const fixedBitEncoding = (frequencies: Record<string, number>) => {
     return Math.ceil(Math.log2(characters))
 }
 
-const SEP = "       "
-const getAverageFrequencies = async (): Promise<Frequencies> => {
-    const text = await readFile("./data/frequencies.txt", "utf-8")
-    return Object.fromEntries(
-        text
-            .split("\n")
-            .filter((line) => line && line.slice(1).startsWith(SEP))
-            .map((line) => {
-                const [char, value] = line.split(SEP)
-                return [char, parseFloat(value)]
-            })
-    )
-}
+const getAverageFrequencies = async (): Promise<Frequencies> =>
+    Object.fromEntries(average.map(({ Char, Freq }) => [String.fromCharCode(Char), Freq]))
 
 const timeFunc = <T>(f: () => T, message: string) => {
     const start = performance.now()
@@ -163,7 +183,7 @@ const timeFunc = <T>(f: () => T, message: string) => {
 const output = async (codes: Record<string, string>, base: BTree, mod = "") => {
     mod = mod ? `-${mod}` : ""
     await writeFile(`./out/output${mod}.json`, JSON.stringify({ codes, base }, null, 4))
-    await writeFile(`./out/output-tree${mod}.txt`, base.visualize(codes))
+    await writeFile(`./out/output${mod}-tree.txt`, base.visualize(codes))
     console.log(chalk.gray("> Outputted to ./output.json & ./output-tree.txt"))
     console.log(chalk.gray(`> Tree size: ${Object.keys(codes).length}`))
 }
@@ -203,7 +223,11 @@ const main = async () => {
     const fixedSize = mobyDick.length * fixedBitEncoding(fq)
 
     console.log(chalk.yellow(`${huffmanSize.toLocaleString("en-US")} bits for huffman encoding`))
-    console.log(chalk.yellow(`${fixedSize.toLocaleString("en-US")} bits for fixed encoding`))
+    console.log(
+        chalk.yellow(
+            `${fixedSize.toLocaleString("en-US")} bits for fixed encoding (${fixedBitEncoding(fq)} bit encoding)`
+        )
+    )
     console.log(chalk.yellow(`${percentDiff(fixedSize, huffmanSize)}% space saved`))
 
     // Challenge #1
@@ -221,7 +245,7 @@ const main = async () => {
     const avgSize = huffmanLength(fq, avgCodes)
 
     console.log(chalk.yellow(`${avgSize.toLocaleString("en-US")} bits for average huffman encoding`))
-    console.log(chalk.yellow(`${percentDiff(fixedSize, avgSize)}% space saved`))
+    console.log(chalk.yellow(`${percentDiff(fixedSize, avgSize)}% space saved from fixed`))
     console.log(chalk.yellow(`Huffman ${percentDiff(avgSize, huffmanSize)}% better`))
 
     // Challenge #2
@@ -245,10 +269,5 @@ const main = async () => {
     console.log(chalk.yellow(`${otherHuffmanSize.toLocaleString("en-US")} bits for huffman encoding`))
     console.log(chalk.yellow(`Huffman is ${percentDiff(otherAvgSize, otherHuffmanSize)}% better than avg`))
     console.log(chalk.yellow(`${otherFixedSize.toLocaleString("en-US")} bits for fixed encoding`))
-    console.log(
-        chalk.yellow(
-            `NewCodes Length: ${Object.keys(newCodes).length} | NewAvgCodes Length: ${Object.keys(newAvgCodes).length}`
-        )
-    )
 }
 main()

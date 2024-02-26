@@ -1,3 +1,5 @@
 .history
 .vsode
 node_modules
+lab.*
+!lab.tex
